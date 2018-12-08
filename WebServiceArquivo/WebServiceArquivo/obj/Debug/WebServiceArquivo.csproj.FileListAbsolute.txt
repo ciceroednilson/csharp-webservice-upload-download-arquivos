@@ -1,0 +1,5 @@
+c:\users\cicero.machado\documents\visual studio 2010\Projects\WebServiceArquivo\WebServiceArquivo\bin\WebServiceArquivo.dll
+c:\users\cicero.machado\documents\visual studio 2010\Projects\WebServiceArquivo\WebServiceArquivo\bin\WebServiceArquivo.pdb
+c:\users\cicero.machado\documents\visual studio 2010\Projects\WebServiceArquivo\WebServiceArquivo\obj\Debug\ResolveAssemblyReference.cache
+c:\users\cicero.machado\documents\visual studio 2010\Projects\WebServiceArquivo\WebServiceArquivo\obj\Debug\WebServiceArquivo.dll
+c:\users\cicero.machado\documents\visual studio 2010\Projects\WebServiceArquivo\WebServiceArquivo\obj\Debug\WebServiceArquivo.pdb

@@ -1,0 +1,10 @@
+c:\users\cicero.machado\documents\visual studio 2010\Projects\Cliente\Cliente\bin\Debug\Cliente.exe.config
+c:\users\cicero.machado\documents\visual studio 2010\Projects\Cliente\Cliente\bin\Debug\Cliente.exe
+c:\users\cicero.machado\documents\visual studio 2010\Projects\Cliente\Cliente\bin\Debug\Cliente.pdb
+c:\users\cicero.machado\documents\visual studio 2010\Projects\Cliente\Cliente\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\cicero.machado\documents\visual studio 2010\Projects\Cliente\Cliente\obj\x86\Debug\Cliente.Form1.resources
+c:\users\cicero.machado\documents\visual studio 2010\Projects\Cliente\Cliente\obj\x86\Debug\Cliente.Properties.Resources.resources
+c:\users\cicero.machado\documents\visual studio 2010\Projects\Cliente\Cliente\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\cicero.machado\documents\visual studio 2010\Projects\Cliente\Cliente\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\cicero.machado\documents\visual studio 2010\Projects\Cliente\Cliente\obj\x86\Debug\Cliente.exe
+c:\users\cicero.machado\documents\visual studio 2010\Projects\Cliente\Cliente\obj\x86\Debug\Cliente.pdb
